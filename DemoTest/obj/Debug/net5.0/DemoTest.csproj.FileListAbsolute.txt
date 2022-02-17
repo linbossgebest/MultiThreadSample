@@ -1,0 +1,16 @@
+C:\Users\linyong\source\repos\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.csproj.AssemblyReference.cache
+C:\Users\linyong\source\repos\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linyong\source\repos\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.AssemblyInfoInputs.cache
+C:\Users\linyong\source\repos\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.AssemblyInfo.cs
+C:\Users\linyong\source\repos\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.csproj.CoreCompileInputs.cache
+C:\Users\linyong\source\repos\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.exe
+C:\Users\linyong\source\repos\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.deps.json
+C:\Users\linyong\source\repos\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.runtimeconfig.json
+C:\Users\linyong\source\repos\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.runtimeconfig.dev.json
+C:\Users\linyong\source\repos\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.dll
+C:\Users\linyong\source\repos\DemoTest\DemoTest\bin\Debug\net5.0\ref\DemoTest.dll
+C:\Users\linyong\source\repos\DemoTest\DemoTest\bin\Debug\net5.0\DemoTest.pdb
+C:\Users\linyong\source\repos\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.dll
+C:\Users\linyong\source\repos\DemoTest\DemoTest\obj\Debug\net5.0\ref\DemoTest.dll
+C:\Users\linyong\source\repos\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.pdb
+C:\Users\linyong\source\repos\DemoTest\DemoTest\obj\Debug\net5.0\DemoTest.genruntimeconfig.cache
